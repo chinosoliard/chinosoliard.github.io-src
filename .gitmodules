@@ -1,0 +1,6 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:chinosoliard/chinosoliard.github.io.git
+[submodule "responsive-cli-pelican-theme"]
+	path = responsive-cli-pelican-theme
+	url = git@github.com:chinosoliard/responsive-cli-pelican-theme.git
