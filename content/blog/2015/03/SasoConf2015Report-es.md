@@ -1,10 +1,10 @@
 Title: SASO Conf 2015 [Reporte]
 Date: 2015-03-30
 Category: Fedora
-Tags: Corrientes, Curuzú, Cuatiá, Fedora, GNU/Linux, SASOConf, event
+Tags: Corrientes, Curuzú, Cuatiá, Fedora, GNU/Linux, SASOConf, InfoSec, event
 Lang: es
-Slug: saso-conf-2015-reporte
-Summary: <a href="http://www.sasoconf.com.ar" target="_blank"><img alt="sasoconf" src="/images/article/2015/03/sasoconf.png" class="alignright">[SASO Conf](http://www.sasoconf.com.ar/) se llevó a cabo el 20 y 21 de marzo en la “Casa de la Historia y la Cultura del Bicentenario” de Curuzú Cuatiá, Corrientes.</br></br>Tuve el agrado de asistir representando a [Fedora Project](http://www.fedoraproject.org/), y conocer gente espectacular.  
+Slug: saso-conf-2015-report
+Summary: <a href="http://www.sasoconf.com.ar" target="_blank"><img alt="sasoconf" src="/images/static/sasoconf.png" class="alignright"></a>[SASO Conf](http://www.sasoconf.com.ar/) se llevó a cabo el 20 y 21 de marzo en la “Casa de la Historia y la Cultura del Bicentenario” de Curuzú Cuatiá, Corrientes.</br></br>Tuve el agrado de asistir representando a [Fedora Project](http://www.fedoraproject.org/), y conocer gente espectacular.  
 
 En la SASO, se dieron charlas de diversas índoles, cómo experiencias, seguridad y hacking, introducción a algunos softwares o plataformas y desarrollo.  
 
