@@ -20,16 +20,16 @@ Algunos detalles de la SASO
 ---------------------------
 
 ### Stands  
-  *    Fedora Project  
+  *    **Fedora Project**  
     En el stand de Fedora, el cual estaba a mi cargo, se repartía SWAG de Fedora y se explicaba en que consiste el proyecto.
-  *    Hamping  
+  *    **Hamping**  
     [Hamping](http://www.hamping.org/) es un evento cuyo nombre surge de sumar las palabras "hacking" y "camping". El evento, actualmente, toma lugar en La Plata, pero los organizadores están en vistas de realizarlo en otros lugares también. La idea del evento es juntarse con colegas del mundo de la radio afición, comunicaciones, software libre y seguridad informática, y compartir desde fabricación de antenas y dispositivos electrónicos hasta asados (¿Suena interesante, no?).  
     En el stand de Hamping se podían fabricar antenas WiFi, hornallas de alcohol, encendedores y de todo un poco. Fue el stand más visitado del evento (tanto, que tuve que desplazar el stand de Fedora).  
-  *    Informática Curuzú  
+  *    **Informática Curuzú**  
     Fue el principal sponsor del evento (y, digamos... organizador), en su stand se podía apreciar demostraciones de impresión 3D y su estación para hacer "[reburbishing](https://en.wikipedia.org/wiki/Refurbishment_(electronics))".
-  *    SASOConf  
+  *    **SASOConf**  
     En el stand de SASOConf se vendía SWAG y recuerdos del evento.
-  *    Universidad de la Cuenca del Plata  
+  *    **Universidad de la Cuenca del Plata**  
     La Universidad de la Cuenca del Plata mostró, en su stand, sus ofertas académicas.
 
 ### Cierre del evento  
