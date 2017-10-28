@@ -4,7 +4,7 @@ Category: Fedora
 Tags: Corrientes, Curuzú, Cuatiá, Fedora, GNU/Linux, SASOConf, InfoSec, event
 Lang: es
 Slug: saso-conf-2017-report
-Summary: <a href="http://www.sasoconf.com.ar" target="_blank"><img alt="sasoconf" src="/images/static/sasoconf.png" class="alignright"></a> La edición 2017 de "[La SASO](http://www.sasoconf.com.ar/)" se llevó a cabo el 26 y 27 de mayo, en la "Casa de la Historia y la Cultura del Bicentenario", ciudad de Curuzú Cuatía (Corrientes, Argentina). Nuevamente asistí representando a la comunidad de [Fedora Project](http://www.fedoraproject.org/).
+Summary: <a href="http://www.sasoconf.com.ar" target="_blank"><img alt="sasoconf" src="/images/static/sasoconf.png" class="alignright"></a> Hace unos años, me invitaron a participar de "[La SASO](http://www.sasoconf.com.ar/)", en la cual conocí mucha gente muy grosa y aprendí de todo un poco. Éste año me volvieron a invitar, y no lo dudé.</br>La edición 2017 se llevó a cabo el 26 y 27 de mayo, nuevamente, en la "Casa de la Historia y la Cultura del Bicentenario" de la ciudad de Curuzú Cuatía (Corrientes, Argentina). Otra vez asistí representando a la comunidad de [Fedora Project](http://www.fedoraproject.org/).
 
 Como dice el eslogan del evento, SASOConf es un evento con temáticas de **Software Libre, Redes Libres y Seguridad Informática**, lo cual lo hace un evento con personalidades de todo tipo. Tuve el agrado de reencontrarme con mucha gente que conocí en la edición anterior, y conocer a más personajes, con los cuales, en un evento de éste tipo, generas una amistad que perdura a través del tiempo.  
 El evento tuvo unos 150 asistentes, varios stands, y contó con un auditorio principal, y 2 adicionales para talleres y charlas.  

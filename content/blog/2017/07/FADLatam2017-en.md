@@ -4,7 +4,7 @@ Category: Fedora
 Tags: Fedora, FAD, Peru, Cuzco, event
 Lang: en
 Slug: fad-latam-2017-report
-Summary: <a href="http://www.fedoraproject.org" target="_blank"><img alt="fedora" src="/images/static/fedora-150.png" class="alignright"></a> During 13th, 14th and 15th of July, some Fedora ambassadors met in an FAD to coordinate work throughout the LATAM region. This were 3 days of sleepless and a lot of thinking, but the work had its result, and now only remains to execute the strategies.  
+Summary: <a href="http://www.fedoraproject.org" target="_blank"><img alt="fedora" src="/images/static/fedora-150.png" class="alignright"></a> During 13th, 14th and 15th of July, some Fedora ambassadors met in an FAD to coordinate work throughout the LATAM region.</br> This were 3 days of sleepless and a lot of thinking, but the work had its result, and now only remains to execute the strategies.  
 
 ## Why a FAD?
 Lately, the region has had coordination problems, which were very difficult to solve via internet, because it take too much time and more fluency. Also, we haven't demonstrated the activities we made in the right way. That required us to come together and intensely resolve problems or, at least, build a strategy to solve them.  
