@@ -12,3 +12,5 @@ Desde el 2007 trabajo en la Dirección de Hidráulica de la Provincia de Entre R
 
 
 Si querés saber más de mi, podes ver mi [Curriculum Vitae](/pages/resume-es.html)
+
+Si querés contactarte conmigo, seguramente puedas averiguar como hacerlo.

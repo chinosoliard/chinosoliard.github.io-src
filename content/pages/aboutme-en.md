@@ -11,3 +11,5 @@ All my life I liked IT in general. Since 2014, I am Programming Senior technicia
 Since 2007, I work in Entre Rios' Hydraulic department , doing systems administration, managing networks, managing servers, maintaining automatic weather stations and watching people strolling; All this to get the code "supplement to reach the minimum" in the paycheck.
 
 If you want more info about me, you can see my [resume](/pages/resume.html)
+
+If you want to contact me, you can surely find out how to do it.

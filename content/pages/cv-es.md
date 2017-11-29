@@ -7,7 +7,7 @@ Status: hidden
 #Chino Soliard
 
 Nombre real: Adrian Darío Soliard  
-Edad: 28 años  
+Edad: 29 años  
 
 #**RESUMEN**  
 
@@ -22,13 +22,10 @@ Edad: 28 años
 * Redes cableadas e inalámbricas.  
 * Diseño Web / Alojamiento Web  
 
-### **Software Development**  
-* Java (J2EE, SWING, Hibernate, JPA2, JSP, Servlets, Eclipse)  
-* C# (dotNET, WindowForm Applications, Visual Studio)  
-* SQL (PostgreSQL, Firebird, MySQL, Functions, Triggers, Stored Procedures, PL/pgSQL)  
-
-
 #**Estudios**
+
+* 2017 – Actualiadd -> Licenciatura en Sistemas de Información  
+  Facultad de Ciencia y Tecnología (U.A.D.E.R.), Oro Verde, Entre Ríos  
 
 * 2010 – 2014 -> Tecnicatura Superior en Programación  
   U.T.N. – Facultad Regional Paraná, Paraná, Entre Ríos  
@@ -46,9 +43,12 @@ Edad: 28 años
 
 * Español: Nativo  
 
-* Inglés: Conocimientos en lectura, escritura y habla  
+* Inglés: Intermedio  
 
 #**Capacitaciones/Cursos**  
+
+* 2017 -> Quinto Workshop de Seguridad Informática  
+  GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
 
 * 2016 -> Workshop de Bases de Datos  
   GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
@@ -115,13 +115,25 @@ Edad: 28 años
 
 #**Experiencia Laboral**  
 
-* August 2007 – today -> Dirección de Hidráulica de la Provincia de Entre Ríos  
+* Agosto 2007 – Actualidad -> Dirección de Hidráulica de la Provincia de Entre Ríos  
     * Instalación y mantenimiento de equipos y dispositivos informáticos  
     * Administrador de Redes  
     * Administrador de Sistemas  
     * Mantenimiento de estaciones meteorológicas automáticas  
 
 #**Eventos y Conferencias**  
+
+* 2017 -> SASOConf  
+  Curuzú Cuatiá, Corrientes, Argentina  
+  Disertante - Tema: "Introducción a linux para Profesionales IT"  
+
+* 2017 -> FLISoL 2017 Paraná  
+  Paraná, Entre Ríos, Argentina  
+  Coordinador, organizador y disertante - Tema: "Introducción a linux para Profesionales IT", "Infraestructura IT barata con Linux"   
+
+* 2016 -> FUDCon Puno 2016  
+  Puno, Puno, Perú  
+  Disertante - Tema: "Diseña web estáticas rápido con Pelican", "SELinux Workshop"  
 
 * 2016 -> FLISoL 2016 Paraná  
   Oro Verde, Entre Ríos, Argentina  

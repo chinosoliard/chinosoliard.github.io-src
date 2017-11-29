@@ -1,4 +1,4 @@
-Title: FAD Latam Cusco 2017 [Reporte]
+Title: FAD Latam Cusco 2017 [Report]
 Date: 2017-05-31 16:00
 Category: Fedora
 Tags: Fedora, FAD, Peru, Cuzco, event

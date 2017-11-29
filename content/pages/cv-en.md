@@ -7,7 +7,7 @@ Status: hidden
 #Chino Soliard
 
 Real name: Adrian Darío Soliard  
-Age: 28  
+Age: 29  
 
 #**SUMMARY**  
 
@@ -22,13 +22,10 @@ Age: 28
 * Wired and wireless networks configurations.  
 * Web design / Web hosting  
 
-### **Software Development**  
-* Java (J2EE, SWING, Hibernate, JPA2, JSP, Servlets, Eclipse)  
-* C# (dotNET, WindowForm Applications, Visual Studio)  
-* SQL (PostgreSQL, Firebird, MySQL, Functions, Triggers, Stored Procedures, PL/pgSQL)  
-
-
 #**Studies**
+
+* 2017 – Nowadays -> Information system bachelor  
+  Facultad de Ciencia y Tecnología (U.A.D.E.R.), Oro Verde, Entre Ríos  
 
 * 2010 – 2014 -> Programming Senior Technician  
   U.T.N. – Facultad Regional Paraná, Paraná, Entre Ríos  
@@ -46,9 +43,12 @@ Age: 28
 
 * Spanish: Native  
 
-* English: Knowledge in reading, writting and speaking  
+* English: Intermediate  
 
 #**Training/Certificates**  
+
+* 2017 -> 5th Information security Workshop  
+  GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
 
 * 2016 -> Databases workshop  
   GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
@@ -122,6 +122,18 @@ Age: 28
     * Automátic meteorological stations maintenance  
 
 #**Events y Conferences**  
+
+* 2017 -> SASOConf  
+  Curuzú Cuatiá, Corrientes, Argentina  
+  Speaker - Topic: "Linux introduccion for IT Professionals"  
+
+* 2017 -> FLISoL 2017 Paraná  
+  Paraná, Entre Ríos, Argentina  
+  Coordinator, organizer and speaker - Topics: "Cheap IT infrastructure with linux", "Linux introduccion for IT Professionals"  
+
+* 2016 -> FUDCon Puno 2016  
+  Puno, Puno, Perú  
+  Speaker - Topic: "Quick static web design with Pelican", "SELinux Workshop"  
 
 * 2016 -> FLISoL 2016 Paraná  
   Paraná, Entre Ríos, Argentina  
