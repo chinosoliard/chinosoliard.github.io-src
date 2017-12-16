@@ -47,6 +47,9 @@ Age: 29
 
 #**Training/Certificates**  
 
+* 2017 -> Versioning Workshop (Git, Subversion)  
+  GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)
+
 * 2017 -> 5th Information security Workshop  
   GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
 

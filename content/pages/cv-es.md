@@ -47,6 +47,9 @@ Edad: 29 años
 
 #**Capacitaciones/Cursos**  
 
+* 2017 -> Workshop de Versionado  
+  GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)
+
 * 2017 -> Quinto Workshop de Seguridad Informática  
   GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)  
 
