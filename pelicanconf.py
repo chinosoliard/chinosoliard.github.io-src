@@ -32,15 +32,15 @@ TAG_CLOUD_BADGE = False
 THEME = './responsive-cli-pelican-theme'
 
 IMAGE1= 'images/widgets/fedora.png'
-LINK1= 'http://www.fedoraproject.org'
+LINK1= 'https://www.fedoraproject.org'
 LINK1TITLE= 'Fedora Project'
 
 IMAGE2= 'images/widgets/lugparana.png'
-LINK2= 'http://www.lugparana.org'
+LINK2= 'https://www.lugparana.org'
 LINK2TITLE= 'Linux User Group Paraná (Argentina)'
 
 IMAGE3= 'images/widgets/sysarmy.png'
-LINK3= 'http://sysarmy.com.ar/'
+LINK3= 'https://sysarmy.com.ar/'
 LINK3TITLE= 'sysarmy - El soporte de los que dan soporte'
 
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
@@ -62,10 +62,10 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Fedora Project', 'http://www.fedoraproject.org'),
-         ('LUG Paraná (AR)', 'http://www.lugparana.org'),
-         ('Python', 'http://www.python.org'),
-         ('SysArmy', 'http://www.sysarmy.com.ar'),)
+LINKS = (('Fedora Project', 'https://www.fedoraproject.org'),
+         ('LUG Paraná (AR)', 'https://www.lugparana.org'),
+         ('Python', 'https://www.python.org'),
+         ('SysArmy', 'https://www.sysarmy.com.ar'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://www.twitter.com/chinosoliard'),
