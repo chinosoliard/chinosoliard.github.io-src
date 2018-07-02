@@ -7,7 +7,7 @@ Status: hidden
 #Chino Soliard
 
 Nombre real: Adrian Darío Soliard  
-Edad: 29 años  
+Edad: 30 años  
 
 #**RESUMEN**  
 
@@ -46,6 +46,9 @@ Edad: 29 años
 * Inglés: Intermedio  
 
 #**Capacitaciones/Cursos**  
+
+* 2018 -> Sexto Workshop de Seguridad Informática  
+  GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)
 
 * 2017 -> Workshop de Versionado  
   GUGLER (Facultad de Ciencia y Tecnología, Oro Verde, Entre Ríos)
@@ -125,6 +128,14 @@ Edad: 29 años
     * Mantenimiento de estaciones meteorológicas automáticas  
 
 #**Eventos y Conferencias**  
+
+* 2018 -> FLISoL 2018 Curuzú Cuatiá  
+  Curuzú Cuatiá, Corrientes, Argentina  
+  Colaborador, Disertante - Tema: "Ecosistema de Software Libre y Fedora"  
+
+* 2018 -> ParanaConf  
+  Paraná, Entre Ríos, Argentina  
+  Fundador - Organizador  
 
 * 2017 -> SASOConf  
   Curuzú Cuatiá, Corrientes, Argentina  
